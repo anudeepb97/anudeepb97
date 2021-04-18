@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Anudeep Basavaraju...
+I'm **Anudeep Basavaraju**...
 :man_student: Graduated with MSc Data Analytics from Dublin Business School
 
 :man_technologist: Currently learning Data Analytics & Machine Learning Concepts
