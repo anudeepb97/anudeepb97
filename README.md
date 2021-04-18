@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Anudeep Basavaraju...
+
+:man_technologist: I'm currently learning Data Analytics & Machine Learning Concepts
+
 <!--
 **anudeepb97/anudeepb97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
